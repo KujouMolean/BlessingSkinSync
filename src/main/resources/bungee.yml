@@ -1,0 +1,4 @@
+name: BlessingSkinSync
+version: 1.4-SNAPSHOT
+main: com.molean.blessingskinsync.BungeeSkinSync
+depend: [SkinsRestorer]
